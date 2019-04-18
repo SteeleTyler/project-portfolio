@@ -1,0 +1,6 @@
+# JetBrains file
+.idea
+
+# Python cache
+*.py.save
+__pycache__

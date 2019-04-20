@@ -2,7 +2,7 @@
 
 This project explores the benefits of multithreading and programmatically identifying IP addresses.
 
-I used the python module ipwhois and its IPWhois class. When you pass in an IP address to the IPWHois constructor, it
+I used the python module [ipwhois](https://github.com/secynic/ipwhois) and its IPWhois class. When you pass in an IP address to the IPWhois constructor, it
  collects public data regarding that address. 
 
 One program uses multithreading and one does not. Often, the multithreading version is significantly faster. I 
